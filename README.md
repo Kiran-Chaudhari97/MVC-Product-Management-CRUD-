@@ -7,7 +7,8 @@ To build a Spring based application, we will need to use one of the following bu
 -TomCat Server
 
 <h1 align="center">Add Procuct</h1>
-![Add Product](https://user-images.githubusercontent.com/44935486/211199478-7502cfbb-928d-44bb-9148-31a251f5ae11.jpg)
+
+< align="center">![Add Product](https://user-images.githubusercontent.com/44935486/211199478-7502cfbb-928d-44bb-9148-31a251f5ae11.jpg)
 
 <h1 align="center">Add Product Fill Details</h1>
 
