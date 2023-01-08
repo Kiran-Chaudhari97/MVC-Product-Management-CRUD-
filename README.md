@@ -1,10 +1,11 @@
 # MVC-Product-Management-CRUD-
 Building an MVC Application With Spring Framework
 
-#To build a Spring based application, we will need to use one of the following build tools:
--Maven
--Eclipse
--TomCat Server
+
+# To build a Spring based application, we will need to use one of the following build tools:
+- Maven
+- Eclipse
+- TomCat Server
 
 <h1 align="center">Add Procuct
 
